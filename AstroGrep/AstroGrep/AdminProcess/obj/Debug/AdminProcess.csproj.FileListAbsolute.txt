@@ -5,3 +5,9 @@ D:\Work\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AdminProcess.csprojAssemblyRe
 D:\Work\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AdminProcess.csproj.CoreCompileInputs.cache
 D:\Work\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AstroGrep.AdminProcess.exe
 D:\Work\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AstroGrep.AdminProcess.pdb
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AdminProcess\bin\Debug\AstroGrep.AdminProcess.exe.config
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AdminProcess\bin\Debug\AstroGrep.AdminProcess.exe
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AdminProcess\bin\Debug\AstroGrep.AdminProcess.pdb
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AdminProcess.csproj.CoreCompileInputs.cache
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AstroGrep.AdminProcess.exe
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AstroGrep.AdminProcess.pdb

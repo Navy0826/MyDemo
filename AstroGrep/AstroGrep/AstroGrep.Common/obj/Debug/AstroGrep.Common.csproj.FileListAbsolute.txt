@@ -6,3 +6,11 @@ D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.csproj.C
 D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.csproj.CopyComplete
 D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.dll
 D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.pdb
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AstroGrep.Common\bin\Debug\AstroGrep.Common.dll
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AstroGrep.Common\bin\Debug\AstroGrep.Common.pdb
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AstroGrep.Common\bin\Debug\NLog.dll
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AstroGrep.Common\bin\Debug\NLog.xml
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.csproj.CoreCompileInputs.cache
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.csproj.CopyComplete
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.dll
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.pdb

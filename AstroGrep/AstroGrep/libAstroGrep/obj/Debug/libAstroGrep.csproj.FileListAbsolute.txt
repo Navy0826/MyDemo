@@ -10,3 +10,15 @@ D:\Work\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.csproj.CoreCompi
 D:\Work\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.csproj.CopyComplete
 D:\Work\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.dll
 D:\Work\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.pdb
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\bin\Debug\libAstroGrep.dll.config
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\bin\Debug\libAstroGrep.dll
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\bin\Debug\libAstroGrep.pdb
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\bin\Debug\AstroGrep.Common.dll
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\bin\Debug\NLog.dll
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\bin\Debug\AstroGrep.Common.pdb
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\bin\Debug\NLog.xml
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.csprojAssemblyReference.cache
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.csproj.CoreCompileInputs.cache
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.csproj.CopyComplete
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.dll
+C:\Users\Jiahj\Desktop\MyDemo\AstroGrep\AstroGrep\libAstroGrep\obj\Debug\libAstroGrep.pdb
