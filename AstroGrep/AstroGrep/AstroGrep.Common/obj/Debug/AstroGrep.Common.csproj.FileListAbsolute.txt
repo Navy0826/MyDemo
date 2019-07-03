@@ -1,0 +1,8 @@
+D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\bin\Debug\AstroGrep.Common.dll
+D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\bin\Debug\AstroGrep.Common.pdb
+D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\bin\Debug\NLog.dll
+D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\bin\Debug\NLog.xml
+D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.csproj.CoreCompileInputs.cache
+D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.csproj.CopyComplete
+D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.dll
+D:\Work\AstroGrep\AstroGrep\AstroGrep.Common\obj\Debug\AstroGrep.Common.pdb

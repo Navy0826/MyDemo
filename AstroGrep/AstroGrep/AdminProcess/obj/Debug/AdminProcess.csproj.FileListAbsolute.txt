@@ -1,0 +1,7 @@
+D:\Work\AstroGrep\AstroGrep\AdminProcess\bin\Debug\AstroGrep.AdminProcess.exe.config
+D:\Work\AstroGrep\AstroGrep\AdminProcess\bin\Debug\AstroGrep.AdminProcess.exe
+D:\Work\AstroGrep\AstroGrep\AdminProcess\bin\Debug\AstroGrep.AdminProcess.pdb
+D:\Work\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AdminProcess.csprojAssemblyReference.cache
+D:\Work\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AdminProcess.csproj.CoreCompileInputs.cache
+D:\Work\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AstroGrep.AdminProcess.exe
+D:\Work\AstroGrep\AstroGrep\AdminProcess\obj\Debug\AstroGrep.AdminProcess.pdb
