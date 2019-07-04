@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroGrep", "WinformsGUI\AstroGrep.csproj", "{583FF22B-9586-4543-B4B4-747E06C963ED}"
 EndProject
@@ -15,6 +15,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common Assembly", "Common A
 		AssemblyInfoCommon.cs = AssemblyInfoCommon.cs
 		AssemblyVersionCommon.cs = AssemblyVersionCommon.cs
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder", "NewFolder", "{65A48FA6-4FB5-4559-8408-19E5B085CF2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAstroGrep", "MyAstroGrep\MyAstroGrep.csproj", "{67A00CA9-89C5-4788-9604-A38C03F737D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibAstroGrep", "MyLibAstroGrep\MyLibAstroGrep.csproj", "{D0EEB657-9EAE-4EF7-BFED-D2A982454118}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,8 +53,29 @@ Global
 		{9A78B1C9-9260-412D-BB93-143289831B38}.Portable|Any CPU.Build.0 = Portable|Any CPU
 		{9A78B1C9-9260-412D-BB93-143289831B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A78B1C9-9260-412D-BB93-143289831B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A00CA9-89C5-4788-9604-A38C03F737D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A00CA9-89C5-4788-9604-A38C03F737D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A00CA9-89C5-4788-9604-A38C03F737D4}.Portable|Any CPU.ActiveCfg = Release|Any CPU
+		{67A00CA9-89C5-4788-9604-A38C03F737D4}.Portable|Any CPU.Build.0 = Release|Any CPU
+		{67A00CA9-89C5-4788-9604-A38C03F737D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A00CA9-89C5-4788-9604-A38C03F737D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Portable|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Portable|Any CPU.Build.0 = Release|Any CPU
+		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{583FF22B-9586-4543-B4B4-747E06C963ED} = {65A48FA6-4FB5-4559-8408-19E5B085CF2F}
+		{03EDAD50-4218-41D4-AEA8-5D072253EA17} = {65A48FA6-4FB5-4559-8408-19E5B085CF2F}
+		{E2E4F8BE-6181-46B2-B79C-1ED7EBF2BDC1} = {65A48FA6-4FB5-4559-8408-19E5B085CF2F}
+		{9A78B1C9-9260-412D-BB93-143289831B38} = {65A48FA6-4FB5-4559-8408-19E5B085CF2F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128C720D-4333-4AF5-9CE8-A315ED16225A}
 	EndGlobalSection
 EndGlobal
