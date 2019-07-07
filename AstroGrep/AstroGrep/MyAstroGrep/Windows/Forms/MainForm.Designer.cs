@@ -414,6 +414,7 @@
             // 
             // LstFileNames
             // 
+            this.LstFileNames.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.LstFileNames.Dock = System.Windows.Forms.DockStyle.Top;
             this.LstFileNames.HideSelection = false;
             this.LstFileNames.Location = new System.Drawing.Point(0, 0);
@@ -421,6 +422,7 @@
             this.LstFileNames.Size = new System.Drawing.Size(665, 261);
             this.LstFileNames.TabIndex = 0;
             this.LstFileNames.UseCompatibleStateImageBehavior = false;
+            this.LstFileNames.View = System.Windows.Forms.View.Details;
             // 
             // MainForm
             // 

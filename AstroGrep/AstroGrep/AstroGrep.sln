@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAstroGrep", "MyAstroGrep\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibAstroGrep", "MyLibAstroGrep\MyLibAstroGrep.csproj", "{D0EEB657-9EAE-4EF7-BFED-D2A982454118}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAstroGrep.Common", "MyAstroGrep.Common\MyAstroGrep.Common.csproj", "{045A407E-C41D-4A7D-97BE-DA097E65DBAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,12 @@ Global
 		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Portable|Any CPU.Build.0 = Release|Any CPU
 		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0EEB657-9EAE-4EF7-BFED-D2A982454118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045A407E-C41D-4A7D-97BE-DA097E65DBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045A407E-C41D-4A7D-97BE-DA097E65DBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045A407E-C41D-4A7D-97BE-DA097E65DBAE}.Portable|Any CPU.ActiveCfg = Release|Any CPU
+		{045A407E-C41D-4A7D-97BE-DA097E65DBAE}.Portable|Any CPU.Build.0 = Release|Any CPU
+		{045A407E-C41D-4A7D-97BE-DA097E65DBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045A407E-C41D-4A7D-97BE-DA097E65DBAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

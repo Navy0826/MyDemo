@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MyAstroGrep.Core;
+using MyAstroGrep.Windows;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,6 +18,9 @@ namespace MyAstroGrep
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            Language.Load(GeneralSettings.Language);
+
             Application.Run(new Windows.Forms.MainForm());
         }
     }

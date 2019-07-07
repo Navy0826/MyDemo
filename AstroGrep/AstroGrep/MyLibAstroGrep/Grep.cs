@@ -12,6 +12,8 @@ namespace MyLibAstroGrep
     {
         public IList<MatchResult> MatchResults { get; private set; }
         public ISearchSpec SearchSpec { get; private set; }
+        public delegate void FileHitHandler(FileInfo file, int index);
+        public event FileHitHandler FileHit;
 
         public Grep(ISearchSpec searchSpec)
         {
