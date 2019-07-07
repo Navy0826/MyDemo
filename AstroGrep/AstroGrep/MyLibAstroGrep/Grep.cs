@@ -119,6 +119,14 @@ namespace MyLibAstroGrep
             }
         }
 
+        public MatchResult RetrieveMatchResult(int index)
+        {
+            if (index < 0 || index > MatchResults.Count - 1)
+                return null;
+
+            return MatchResults[index];
+        }
+
         private void SearchFileContents(FileInfo file)
         {
             int lineNumber = 0;
@@ -140,10 +148,19 @@ namespace MyLibAstroGrep
                         {
                             match = new MatchResult(file) { Index = MatchResults.Count };
                             MatchResults.Add(match);
+                            OnFileHit(file, match.Index);
                         }
                     }
                     while (true);
                 }
+            }
+        }
+
+        private void OnFileHit(FileInfo file, int index)
+        {
+            if (FileHit != null)
+            {
+                FileHit(file, index);
             }
         }
 

@@ -25,7 +25,7 @@ namespace MyAstroGrep.Windows.Forms
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            CboFilePath.Text = @"D:\MyWork\MyDemo\Test";
+            CboFilePath.Text = @"C:\Users\Jiahj\Desktop\MyDemo\Test";
             CboFileFilter.Text = "*.*";
             CboSearchText.Text = "666666";
 
