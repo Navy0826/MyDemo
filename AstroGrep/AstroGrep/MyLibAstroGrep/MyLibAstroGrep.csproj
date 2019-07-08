@@ -44,6 +44,8 @@
     <Compile Include="Grep.cs" />
     <Compile Include="ISearchSpec.cs" />
     <Compile Include="MatchResult.cs" />
+    <Compile Include="MatchResultLine.cs" />
+    <Compile Include="MatchResultLineMatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

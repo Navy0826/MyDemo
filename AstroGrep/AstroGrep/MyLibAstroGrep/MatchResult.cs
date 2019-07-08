@@ -15,6 +15,8 @@ namespace MyLibAstroGrep
 
         public int Index { get; set; }
 
+        public List<MatchResultLine> Matches { get; set; } = new List<MatchResultLine>();
+
         public MatchResult(FileInfo file)
         {
             File = file;
